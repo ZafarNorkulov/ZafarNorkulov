@@ -2,7 +2,7 @@
 <h3 align="center"> I'm study TUIT </h3>
 <br/>
 
-<p><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></p>
+<p><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></p>
 
 - 🌱 I’m currently learning **NextJS, TypeScript**
 
