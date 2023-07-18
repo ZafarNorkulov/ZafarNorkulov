@@ -1,5 +1,6 @@
 <h1 >Hi 👋, I'm Zafar</h1>
 <h3 >A passionate frontend developer from India</h3>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fdeveloping&psig=AOvVaw3MLBjp3jqGX08vkaYGq24B&ust=1689769972820000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODb3-mhmIADFQAAAAAdAAAAABAR" width="400" align="right"/>
 
 - 🌱 I’m currently learning **NextJS, TypeScript**
 
