@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **norqulovzafar123@gmail.com**
 
-- 📄 Know about my experiences [https://photos.app.goo.gl/QZiWdpgsQTfiDY479](https://photos.app.goo.gl/QZiWdpgsQTfiDY479)
+- 📄 Know about my experiences [https://photos.app.goo.gl/JAMDmx992jSsfBkX9](https://photos.app.goo.gl/JAMDmx992jSsfBkX9)
   
 <br/>
 
