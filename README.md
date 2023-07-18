@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zafar</h1>
-<h3 align="center"> I'm study TUIT </h3>
+<h3 align="center"> I'm a Frontend Developer 👨‍💻 </h3>
 <br/>
 
 <p><img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></p>
