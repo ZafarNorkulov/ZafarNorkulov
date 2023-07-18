@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zafar</h1>
 <h3 align="center"> I'm study TUIT </h3>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<br/>
+
+<p><img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></p>
 
 - 🌱 I’m currently learning **NextJS, TypeScript**
 
@@ -9,6 +11,8 @@
 - 📫 How to reach me **norqulovzafar123@gmail.com**
 
 - 📄 Know about my experiences [https://photos.app.goo.gl/QZiWdpgsQTfiDY479](https://photos.app.goo.gl/QZiWdpgsQTfiDY479)
+  
+<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
