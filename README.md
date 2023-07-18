@@ -1,5 +1,6 @@
-<h1>Hi 👋, I'm Zafar</h1>
-<h3>A passionate frontend developer from Uzbekistan</h3>
+<h1 align="center">Hi 👋, I'm Zafar</h1>
+<h3 align="center"> I'm study TUIT </h3>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 - 🌱 I’m currently learning **NextJS, TypeScript**
 
